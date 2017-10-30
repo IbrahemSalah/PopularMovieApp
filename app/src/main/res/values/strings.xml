@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Popular Mobile App</string>
+    <string name="highrated">High Rated</string>
+    <string name="mostpopular">Most Popular</string>
+    <string name="favorite">Favorite</string>
+    <string name="title_activity_movie">MovieActivity</string>
+    <string name="Null">Null</string>
+    <string name="releaseDate">Release Date: </string>
+    <string name="overallRating">Overall Rating: </string>
+    <string name="trailerText">Trailers: </string>
+    <string name="reviewsText">Reviews: </string>
+</resources>

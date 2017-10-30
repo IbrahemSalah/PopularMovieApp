@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.popularmobileapp.MainActivity">
+    <item
+        android:id="@+id/highrated_button"
+        android:orderInCategory="100"
+        android:title="@string/highrated"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/mostpopular_button"
+        android:orderInCategory="100"
+        android:title="@string/mostpopular"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/favorite_button"
+        android:orderInCategory="100"
+        android:title="@string/favorite"
+        app:showAsAction="never" />
+</menu>
